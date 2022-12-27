@@ -9,7 +9,7 @@ Used Elon must Tweets data from kaggle and performed the below objectives.
 2. Show top 10 words (for each year) by the highest value of word frequency
 3. Represented word frequencies for each year using histogram.
 4. Used Zipf’s law and plot log-log plots of word frequencies and rank for each year.
-5. Created bigram network graphs for each year.
+5. Created bigram network graphs for each year. Showing the connection between each word.
 
 
 **Data source:**
